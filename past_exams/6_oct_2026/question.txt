@@ -3,3 +3,5 @@
 10935 - Throwing cards away I
 10154 - Weights and Measures
 10242 Fourth Point!!
+10125 Sumsets
+10436 Cheapest way
